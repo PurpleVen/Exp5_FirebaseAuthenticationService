@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "255703471505",
+    "project_id": "ven-login-page",
+    "storage_bucket": "ven-login-page.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255703471505:android:44eb3e0eb7545a3da8f630",
+        "android_client_info": {
+          "package_name": "com.example.loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255703471505-me8anviru1s9kpnviu077sn9tu6pkcu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhwLCbzUzo_SX4T97sc_56pECeStxXPuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255703471505-me8anviru1s9kpnviu077sn9tu6pkcu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
